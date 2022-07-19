@@ -8,4 +8,4 @@ We modify CartPole to make it a partially observed markov decision process (POMD
 [Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/pdf/1507.06527.pdf)
 
 ## Train on Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcformanek/Simple-TF2-DRQN/tf2_drqn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcformanek/Simple-TF2-DRQN/blob/main/tf2_drqn.ipynb)
